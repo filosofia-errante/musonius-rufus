@@ -1,0 +1,8 @@
+[book]
+authors = ["Caius Musonius Rufus"]
+language = "en"
+src = "src"
+title = "Musonius Rufus - Discourses and Fragments"
+
+[build]
+build-dir = "book"
